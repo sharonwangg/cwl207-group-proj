@@ -1,26 +1,11 @@
 <html>
-    <head>
-      <script src="https://d3js.org/d3.v5.min.js"></script>
-      <style>
-      .tooltip {
-            position: absolute;
-            font-size: 12px;
-            width:  auto;
-            height: auto;
-            pointer-events: none;
-            background-color: white;
-      }
-      </style>
-    </head>
-
     <form>
       <div class="form-group">
         <input type="file" class="form-control-file" id="data-input">
       </div>
     </form>
-
     <div id="scatter-area"></div>
-
+    <script src="https://d3js.org/d3.v5.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.1.0/papaparse.min.js"></script>
     <script>
         const dataInput = document.getElementById("data-input");
@@ -81,31 +66,6 @@
               .attr("dy", "1em")
               .style("text-anchor", "middle")
               .text("IMDb Rating (out of 10)")
-
-            var tooltip = d3.select("#scatter-area").append("div")
-              .attr("class", "tooltip")
-              .style("opacity", 0);
-
-            var tipMouseover = function(d) {
-              var color = colorScale(d.genre);
-              var html = d.title + "<br/>" +
-                         "<span style='color:" + color + ";'>" + d.genre + "</span><br/>" +
-                         "<b>" + d.director + "</b> director, <b/>" + d.studio + "</b> studio", +
-                         "<b>" + d.length + "</b> length, <b/>"
-
-              tooltip.html(html)
-                .style("left", (d3.event.pageX + 15) + "px")
-                .style("top", (d3.event.pageY - 28) + "px")
-                .transition()
-                .duration(200)
-                .style("opacity", .9)
-            };
-
-            var tipMouseout = function(d) {
-              tooltip.transition()
-                .duration(300)
-                .style("opacity", 0);
-            };
 
             sVg.selectAll("whatever")
                 .data(data)
