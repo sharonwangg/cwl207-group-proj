@@ -77,7 +77,7 @@
                 .call(d3.axisLeft(y))
 
             // setup fill color
-            var cValue = function(d) { return d.genre;},
+            var cValue = function(d) { return d.genre_color;},
               color = d3.scaleOrdinal(d3.schemeCategory10);
 
             // add the tooltip area to the webpage
@@ -105,7 +105,10 @@
                   tooltip.transition()
                     .duration(200)
                     .style("opacity", .9);
-                  tooltip.html(d["title"] + ", " + d["genre"] + ")")
+                  tooltip.html(d["title"] + "<br>" + "Director(s): " + d["director"] + "<br>" + "Studio(s): " + d["studio"] + "<br>" + "Genre(s): " + d["genre"] + "<br>" + "Japanese Release Date: " + d["release_date"] + "<br>")
+                  //tooltip.html(d["title"] + "<br>" + "Director(s): " + d["director"])
+                  //tooltip.html(d["title"] + "<br>" + "Director(s): ");
+                  //tooltip.html(d["title"] + ", " + d["genre"] + ")")
                     .style("left", (d3.event.pageX + 5) + "px")
                     .style("top", (d3.event.pageY - 28) + "px");
                 })
@@ -120,11 +123,14 @@
         const getDataArray = (rows) => {
             const data = [];
             rows.forEach((item, index) => {
+                const genres = item["genre"].split(',');
                 data.push({
                     x: createDate(item["japan release date"]),
+                    release_date: item["japan release date"],
                     y: item["rating"],
                     title: item["title"],
                     length: item["length"],
+                    genre_color: genres[0],
                     genre: item["genre"],
                     director: item["director"],
                     studio: item["studio"]
