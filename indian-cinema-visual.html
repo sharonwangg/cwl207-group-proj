@@ -1,5 +1,12 @@
 <!DOCTYPE html>
 <html>
+
+  <form>
+    <div class="form-group">
+      <input type="file" class="form-control-file" id="data-input">
+    </div>
+  </form>
+
     <style>
     body {
       font: 11px sans-serif;
@@ -17,6 +24,16 @@
     <script src="https://d3js.org/d3.v5.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.1.0/papaparse.min.js"></script>
     <script>
+        const dataInput = document.getElementById("data-input");
+        dataInput.addEventListener("change", () => {
+            Papa.parse(dataInput.files[0], {
+                header: true,
+                complete: (results) => {
+                    const data = getDataArray(results.data);
+                    createVisualization(data);
+                }
+            });
+        });
         const createVisualization = (data) => {
             const margin = {top: 20, right: 20, bottom: 50, left: 70};
             const width = 1600 - margin.left - margin.right;
@@ -88,7 +105,7 @@
                   tooltip.transition()
                     .duration(200)
                     .style("opacity", .9);
-                  tooltip.html(d.title + "<br/> (" + d["title"] + ", " + d["rating"] + ")")
+                  tooltip.html(d["title"] + ", " + d["genre"] + ")")
                     .style("left", (d3.event.pageX + 5) + "px")
                     .style("top", (d3.event.pageY - 28) + "px");
                 })
@@ -105,7 +122,12 @@
             rows.forEach((item, index) => {
                 data.push({
                     x: createDate(item["japan release date"]),
-                    y: item["rating"]
+                    y: item["rating"],
+                    title: item["title"],
+                    length: item["length"],
+                    genre: item["genre"],
+                    director: item["director"],
+                    studio: item["studio"]
                 });
             });
             return data;
