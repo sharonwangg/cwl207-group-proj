@@ -105,10 +105,7 @@
                   tooltip.transition()
                     .duration(200)
                     .style("opacity", .9);
-                  tooltip.html(d["title"] + "<br>" + "Director(s): " + d["director"] + "<br>" + "Studio(s): " + d["studio"] + "<br>" + "Genre(s): " + d["genre"] + "<br>" + "Japanese Release Date: " + d["release_date"] + "<br>")
-                  //tooltip.html(d["title"] + "<br>" + "Director(s): " + d["director"])
-                  //tooltip.html(d["title"] + "<br>" + "Director(s): ");
-                  //tooltip.html(d["title"] + ", " + d["genre"] + ")")
+                  tooltip.html("<i>" + "<b>" + d["title"] + "</b>" + "</i>" + "<br>" + "<b>" + "Director(s): " + "</b>" + d["director"] + "<br>" + "<b>" + "Studio(s): " + "</b>" + d["studio"] + "<br>" + "<b>" + "Genre(s): " + "</b>" + d["genre"] + "<br>" + "<b>" + "Japanese Release Date: " + "</b>" + d["release_date"] + "<br>")
                     .style("left", (d3.event.pageX + 5) + "px")
                     .style("top", (d3.event.pageY - 28) + "px");
                 })

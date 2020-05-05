@@ -1,16 +1,140 @@
 id,title,japan release date,rating,length,genre,director,studio
-tt0142666,"Momotaro, Sacred Sailors",03-12-1945,5.8,74,"adventure, family",Mitsuyo Seo,"Shochiku Mediaworx, Shochiku Doga Kenkyujo"
-tt0051694,Panda and the Magic Serpent,08-22-1958,6.6,79,"adventure, family, fantasy",Taiji Yabushita,Toei Animation
-tt0063668,Horus: Prince of the Sun,07-21-1968,6.6,82,"action, adventure",Isao Takahata,Toei Animation
-tt0064961,A Thousand & One Nights,06-14-1969,6.6,128,"action, adventure",Eiichi Yamamoto,Mushi Productions
-tt0069058,The Adventure of Panda and Friends: Panda Family!,12-17-1972,6.8,34,comedy,Isao Takahata,TMS Entertainment
-tt0071203,Belladonna of Sadness,06-30-1973,7.4,86,"drama, fantasy",Eiichi Yamamoto,"SpectreVision, Mushi, Nippon Herald Films"
-tt0080772,Galaxy Express 999,08-04-1979,7.4,129,"action, adventure",Rintaro,Toei Animation
-tt0079833,Lupin the 3rd: Castle of Cagliostro,12-15-1979,7.7,100,"adventure, family",Hayao Miyazaki,TMS Entertainment
-tt0079293,Space Firebird,07-13-1982,7,95,"adventure, drama",Taku Sugiyama,"Tezuka Productions, Toho Company"
-tt0083053,Gauche the Cellist,01-23-1982,7,60,"fantasy, music",Isao Takahata,Oh Production
-tt0086148,Golgo 13: The Professional,05-07-1983,6.8,94,"action, crime",Osamu Dezaki,"Toho-Towa, TMS Entertainment, Filmlink International"
-tt0085218,Barefoot Gen,07-21-1983,8,83,"biography, drama",Mori Masaki,"Madhouse, Gen Productions"
-tt0294497,Dallos,12-21-1983,6.3,120,sci-fi,Mamoru Oshii,Pierrot Project Co. Ltd
-tt0088334,Urusei Yatsura 2: Beautiful Dreamer,02-11-1984,7.5,98,"adventure, comedy",Mamoru Oshii,"Kitty Films, Pierrot"
-tt0087544,Nausicaa of the Valley of the Wind,03-11-1984,8.1,117,"adventure, fantasy",Hayao Miyazaki,"Nibariki, Tokuma Shoten, Hakuhodo, Topcraft"
+tt0142666,"Momotaro, Sacred Sailors",03-12-1945,5.8,74,"Adventure, Family",Mitsuyo Seo,"Shochiku Mediaworx, Shochiku Doga Kenkyujo"
+tt0051694,Panda and the Magic Serpent,08-22-1958,6.6,79,"Adventure, Family, Fantasy",Taiji Yabushita,Toei Animation
+tt0063668,Horus: Prince of the Sun,07-21-1968,6.6,82,"Action, Adventure",Isao Takahata,Toei Animation
+tt0064961,A Thousand & One Nights,06-14-1969,6.6,128,"Action, Adventure",Eiichi Yamamoto,Mushi Productions
+tt0069058,The Adventure of Panda and Friends: Panda Family!,12-17-1972,6.8,34,Comedy,Isao Takahata,TMS Entertainment
+tt0071203,Belladonna of Sadness,06-30-1973,7.4,86,"Drama, Fantasy",Eiichi Yamamoto,"SpectreVision, Mushi, Nippon Herald Films"
+tt0080772,Galaxy Express 999,08-04-1979,7.4,129,"Action, Adventure",Rintaro,Toei Animation
+tt0079833,Lupin the 3rd: Castle of Cagliostro,12-15-1979,7.7,100,"Adventure, Family",Hayao Miyazaki,TMS Entertainment
+tt0079293,Space Firebird,03-15-1980,7,95,"Adventure, Drama",Taku Sugiyama,"Tezuka Productions, Toho Company"
+tt0083053,Gauche the Cellist,01-23-1982,7,60,"Fantasy, Music",Isao Takahata,Oh Production
+tt0086148,Golgo 13: The Professional,05-07-1983,6.8,94,"Action, Crime",Osamu Dezaki,"Toho-Towa, TMS Entertainment, Filmlink International"
+tt0085218,Barefoot Gen,07-21-1983,8,83,"Biography, Drama",Mori Masaki,"Madhouse, Gen Productions"
+tt0294497,Dallos,12-21-1983,6.3,120,Sci-Fi,Mamoru Oshii,Pierrot
+tt0088334,Urusei Yatsura 2: Beautiful Dreamer,02-11-1984,7.5,98,"Adventure, Comedy",Mamoru Oshii,"Kitty Films, Pierrot"
+tt0087544,Nausicaa of the Valley of the Wind,03-11-1984,8.1,117,"Adventure, Fantasy",Hayao Miyazaki,"Nibariki, Tokuma Shoten, Hakuhodo, Topcraft"
+tt0087660,Macross: Do You Remember Love?,07-21-1984,7.8,114,"Action, Adventure","Noboru Ishiguro, Shoji Kawamori","Big West, MBS, Shogakukan,Tatsunoko Production"
+tt0088983,The Dagger of Kamui,03-09-1985,6.9,132,"Action, Adventure",Rintaro,Kadokawa Haruki Jimusho
+tt0089206,Kenji Miyazawa's Night on the Galactic Railroad,07-13-1985,7.1,113,"Adventure, Drama","Gisaburo Sugii, Arlen Tarlofsky","Asahi Shimbun, TV Asahi, Nippon Herald Films"
+tt0090248,Vampire Hunter D,12-21-1985,7.2,80,"Action, Fantasy",Toyoo Ashida,"Ashi Productions Comapny, CBS Sony Group Inc. Epic/Sony, Movic"
+tt0208502,Angel's Egg,12-22-1985,7.6,71,"Drama, Fantasy",Mamoru Oshii,"Studio DEEN, Tokuma Shorten "
+tt0142371,Fist of the North Star,03-08-1986,7.3,110,"Action, Drama",Toyoo Ashida,"Shueisha, Toei Animation, Toei Comapny, Toei Doga"
+tt0091794,Project A-Ko,06-21-1986,7,86,"Action, Adventure",Katsuhiko Nishijima,"A.P.P.P., Soeishinsha Company Ltd."
+tt0092067,Castle in the Sky,08-02-1986,8,125,"Adventure, Drama",Hayao Miyazaki,"Tokuma Shoten, Studio Ghibli"
+tt0093207,Wings of Honneamise,03-14-1987,7.3,121,"Drama, Sci-Fi",Hiroyuki Yamaga,"Bandai Visual Company, Gainax"
+tt0098692,Wicked City,04-19-1987,6.7,82,"Fantasy, Horror",Yoshiaki Kawajiri,"Japan Home Video (JHV), Video Art Co., Madhouse"
+tt0093871,Robot Carnival,07-21-1987,7,90,"Comedy, Drama","Atsuko Fukushima, Hiroyuki Kitakubo, Hiroyuki Kitazume, Koji Morimoto, Takashi Nakamura,Yasuomi Umetsu, Manabu Ohashi, Hidetoshi Omori, Katsuhiro Otomo","A.P.P.P., Studio 4°C"
+tt0185481,Neo Tokyo,09-25-1987,7.1,50,"Adventure, Fantasy","Yoshiaki Kawajiri, Rintaro, Katsuhiro Otomo","Project Team Argos, Madhouse, Kadokawa Shoten Publishing Co., Kadokawa Haruki Jimusho"
+tt0092664,Black Magic M-66,01-01-1987,6.5,48,"Action, Sci-Fi","Hiroyuki Kitakubo, Shirow Masamune","Animate Film, Anime International Company (AIC)"
+tt0095262,Mobile Suit Gundam: Char's Counterattack,03-12-1988,7.4,124,"Action, Drama",Yoshiyuki Tomino,"Sotsu Agency, Sunrise"
+tt0095327,Grave of the Fireflies,04-16-1988,8.5,89,"Drama, War",Isao Takahata,"Shinchosha Company, Studio Ghibli"
+tt0096283,My Neighbor Totoro,04-16-1988,8.2,86,"Family, Fantasy",Hayao Miyazaki,"Tokuma Japan Communications, Studio Ghibli, Nibariki"
+tt0094668,Appleseed,03-21-1988,6.4,71,"Action, Crime",Kazuyoshi Katayama,"Bandai Visual Company, Gainax, Movic, Tohokushinsha Film Corporation (TFC)"
+tt0094625,Akira,07-16-1988,8,124,"Drama, Sci-Fi",Katsuhiro Otomo,"Akira Committee Company Ltd., Akira Studio, TMS Entertainment, Kodansha, Mainichi Broadcasting System (MBS), Bandai, Hakuhodo, Toho Company, LaserDisc, Sumitomo Corporation, TMS Entertainment"
+tt0135037,Venus Wars,03-11-1989,6.7,103,"Action, Drama",Yoshikazu Yasuhiko,"Bandai Visual Company, Gakken Co. Ltd., Kugatsusha, Shochiku, Triangle Staff"
+tt0108461,Urotsukidoji: Legend of the Overfiend,03-18-1989,6.4,108,"Adventure, Fantasy",Hideki Takayama,"Anime 18, Island World, JAVN, West Cape"
+tt0104740,Little Nemo: Adventures in Slumberland ,07-15-1989,7.2,85,"Adventure, Drama","Masami Hata, William T. Hurtz",TMS Entertainment
+tt0100339,Patlabor: The Movie,07-15-1989,7.1,100,"Action, Crime",Mamoru Oshii,"Headgear, I.G Tatsunoko, Studio DEEN, Sunrise"
+tt0097814,Kiki's Delivery Service,07-29-1989,7.8,103,"Adventure, Drama",Hayao Miyazaki,"Kiki's Delivery Service Production Committee, Nibariki, Nippon Television Network (NTV), Studio Ghibli, Tokuma Shoten, Yamato Transport"
+tt0108570,A Wind Named Amnesia,12-22-1990,6.8,80,"Adventure, Drama",Kazuo Yamazaki,Japan Home Video (JHV)
+tt0159568,Mobile Suit Gundam F91,03-15-1991,6.6,120,"Action, Sci-Fi",Yoshiyuki Tomino,"Sotsu Agency, Sunrise"
+tt0102587,Only Yesterday,07-20-1991,7.7,118,"Drama, Romance",Isao Takahata,"Nippon Television Network (NTV), Studio Ghibli, Studiopolis, Tokuma Shoten"
+tt0102812,Roujin Z,09-14-1991,6.8,80,"Comedy, Drama",Hiroyuki Kitakubo,"Movic, Sony Music Entertainment, Tokyo Theatres K.K."
+tt0104652,Porco Rosso,07-18-1992,7.7,94,"Adventure, Comedy",Hayao Miyazaki,"Japan Airlines (JAL), Nibariki, Nippon Television Network (NTV), Studio Ghibli, TNNG, Toho Company, Tokuma Shoten"
+tt0420551,A Well-Ordered Restaurant,08-03-1993,6.6,19,"Short, Fantasy",Tadanari Okamoto,"Sakura Eiga-sha, Echo"
+tt0142242,Dragon Ball Z: Broly - The Legendary Super Saiyan,03-06-1993,7.5,72,"Action, Sci-Fi",Shigeyasu Yamauchi,"Bird Studios, Toei Animation, Toei Doga"
+tt0108432,Ocean Waves,05-05-1993,6.7,76,"Drama, Romance",Tomomi Mochizuki ,"Nippon Television Network (NTV), Studio Ghibli, Tokuma Shoten"
+tt0107692,Ninja Scroll,06-05-1993,7.9,94,"Action, Adventure",Yoshiaki Kawajiri,"Victor Company of Japan (JVC), Toho Company, Movic, Madhouse, Animate Film"
+tt0107061,Gunnm,06-21-1993,7.3,54,"Action, Crime",Hiroshi Fukutomi,"Madhouse, Animate Film, KSS, Movic"
+tt0124770,Patlabor 2: The Movie,08-07-1993,7.6,113,"Action, Drama",Mamoru Oshii,"Bandai Visual Company, Tohokushinsha Film Corporation (TFC), Elastic Media, I.G Tatsunoko, Production I.G."
+tt0110008,Pom Poko,07-16-1994,7.3,119,"Comedy, Drama",Isao Takahata,"Hakuhodo, Nippon Television Network (NTV), Studio Ghibli, Tokuma Shoten"
+tt0114563,Street Fighter II: The Animated Movie,08-06-1994,7.3,102,"Action, Adventure",Gisaburo Sugii,"Capcom Entertainment, Group TAC (I), Sony Music Entertainment"
+tt0110426,Macross Plus,08-25-1994,7.9,115,Sci-Fi,"Shoji Kawamori, Shin'ichiro Watanabe","Bandai Visual Company, Big West, Mainichi Broadcasting System (MBS), Shogakukan"
+tt0113824,Whisper of the Heart,07-15-1995,7.9,111,"Drama, Family",Yoshifumi Kondo,"Tokuma Shoten, Nippon Television Network (NTV), Hakuhodo, Studio Ghibli"
+tt0113568,Ghost in the Shell,09-23-1995,8,83,"Action, Crime",Mamoru Oshii,"Kodansha, Bandai Visual Company, Manga Entertainment, Production I.G."
+tt0113799,Memories,12-23-1995,7.6,113,"Comedy, Fantasy","Koji Morimoto, Tensai Okamura, Katsuhiro Otomo","Bandai Visual Company, Kodamsha Co., Shochiku, Studio 4°C"
+tt0304072,The Dog of Flanders,03-15-1997,7.8,93,"Drama, Family","Yoshio Kuroda, Doug Stone","Fuji Television Network, Mitsui Productions, Nippon Animation Co., Shochiku"
+tt0119698,Princess Mononoke,07-12-1997,8.4,134,"Adventure, Fantasy",Hayao Miyazaki,"DENTSU Music And Entertainment, Nibariki, Nippon Television Network (NTV), Studio Ghibli, TNDG, Tokuma Shoten"
+tt0169858,Neon Genesis Evangelion: The End of Evangelion,07-19-1997,8.1,87,"Action, Drama","Hideaki Anno, Kazuya Tsurumaki","Gainax, Kadokawa Shoten Publishing Co., Movic, Production I.G., Project Eva, Sega, Star Child Recording, TV Tokyo, Toei Animation"
+tt0125037,A Chinese Ghost Story,11-21-1998,6.6,84,,Andrew Chan,"Film Workshop, PolyGram, Win's Entertainment Ltd., Cathay Asia Films, Triangle Staff"
+tt0156887,Perfect Blue,02-18-1998,8,81,"Horror, Mystery",Satoshi Kon,"Rex Entertainment, Kotobuki Seihan Printing, Asahi Broadcasting Corporation (ABC), Fangs Co., Madhouse"
+tt0246734,Kite,02-25-1998,6.7,50,"Action, Crime",Yasuomi Umetsu,"Arms, Beam Entertainment, Green Bunny"
+tt0260191,Gundam Wing: The Movie - Endless Waltz,08-01-1998,7.9,180,"Action, Drama",Yasunao Aoki,Sunrise
+tt0164917,Spriggan,09-05-1998,6.6,90,"Action, Adventure",Hirotsugu Kawasaki,"Bandai Visual Company, Studio 4C, Tokyo Broadcasting System (TBS)"
+tt0206013,My Neighbors the Yamadas,07-17-1999,7.2,104,"Comedy, Family",Isao Takahata,"Tokuma Shoten, Studio Ghibli, Nippon Television Network (NTV), Hakuhodo, Buena Vista Home Entertainment"
+tt0193253,Jin-Roh: The Wolf Brigade,06-03-2000,7.4,102,"Drama, Fantasy",Hiroyuki Okiura,"Bandai Visual Company, Production I.G."
+tt0275230,Blood: The Last Vampire,11-18-2000,6.7,48,"Action, Horror",Hiroyuki Kitakubo,"Aniplex, IG Plus, Production I.G., Sony Computer Entertainment"
+tt0216651,Vampire Hunter D: Bloodlust,04-17-2001,7.7,103,"Action, Fantasy",Yoshiaki Kawajiri ,"BMG Funhouse, Goodhill Vision, Madhouse, MarcoCo. Studios, Movic, Softcapital, Tristone Entertainment Inc., Vampire Hunter D Prod. Committee"
+tt0265018,Ah! My Goddess: The Movie,10-21-2000,7,106,"Comedy, Drama",Hiroaki Goda,"Kodansha, Dentsu, Pony Canyon, Movic, Sega Enterprises, Shochiku, Anime International Company (AIC), Nippon Shuppan Hanbai (Nippan) K.K."
+tt0385586,Cat Soup,02-21-2001,7.7,34,"Short, Comedy",Tatsuo Sato,"Imagica, J.C. Staff, Sony PCL"
+tt0293416,Metropolis,05-26-2001,7.2,108,"Adventure, Drama",Rintaro,"Bandai Visual Company, DENTSU Music and Entertainment, Imagica Corp., Kadokawa Shoten Publishing Co., King Records, Madhouse Productions, Madhouse, Metropolis Project, Sony Pictures Television (Japan), Tezuka Productions, Toho Company"
+tt0173840,Final Fantasy: The Spirits Within,09-15-2001,6.4,106,"Action, Adventure","Hironobu Sakaguchi, Motonori Sakakibara","Chris Lee Productions, Square Company, Square USA"
+tt0245429,Spirited Away,07-20-2001,8.6,125,"Adventure, Family",Hayao Miyazaki,"Tokuma Shoten, Studio Ghibli, Nippon Television Network (NTV), Dentsu, Buena Vista Home Entertainment, Mitsubishi, Tohokushinsha Film Corporation (TFC)"
+tt0291350,Millennium Actress,09-14-2002,7.9,87,"Drama, Fantasy",Satoshi Kon,"Bandai Visual Company, Chiyoko Committee, Genco, WOWOW, Madhouse, Kadokawa Shoten Publishing Co."
+tt0275277,Cowboy Bebop: The Movie,09-01-2001,7.9,115,"Action, Crime","Shin'ichiro Watanabe, Tensai Okamura, Hiroyuki Okiura, Yoshiyuki Takei","Bandai Visual Company, Bones, Destination Films, Sunrise"
+tt0347618,The Cat Returns,07-19-2002,7.2,75,"Adventure, Comedy",Hiroyuki Morita,"Hakuhodo, Mitsubishi, Nippon Television Network (NTV), Studio Ghibli, Toho Company, Tokuma Shoten, Walt Disney Productions"
+tt0328832,The Animatrix,05-24-2003,7.4,100,"Action, Adventure","Peter Chung, Andrew R. Jones, Yoshiaki Kawajiri, Takeshi Koike, Mahiro Maeda, Koji Morimoto, Shin'ichiro Watanabe","DNA Productions, Madhouse, Silver Pictures, Square USA, Studio 4C, Warner Bros. Animation, Warner Bros."
+tt0353014,Sky Blue,04-23-2005,6.7,86,"Action, Adventure",Moon-saeng Kim,"End Game Productions Inc., Gainax, Masquerade Films, Maxmedia, Tin House Productions"
+tt0368667,Interstella 5555: The 5tory of the 5ecret 5tar 5ystem,07-26-2003,7.8,68,"Action, Adventure","Daisuke Nishio, Hirotoshi Rissen, Kazuhisa Takenouchi, Leiji Matsumoto","Toei Animation, Daft Life Ltd Co."
+tt0388473,Tokyo Godfathers,11-08-2003,7.8,92,"Adventure, Comedy","Satoshi Kon, Shogo Furuya",Madhouse
+tt0439533,Dead Leaves,01-17-2004,7.2,55,"Action, Adventure",Hiroyuki Imaishi,Production I.G.
+tt0347246,Ghost in the Shell 2: Innocence,03-06-2004,7.5,100,"Drama, Sci-Fi",Mamoru Oshii,"Bandai Visual Company, Buena Vista Home Entertainment, DENTSU Music And Entertainment, ITNDDTD, Kodansha, Production I.G., Studio Ghibli"
+tt0407658,The Chronicles of Riddick: Dark Fury,06-15-2004,6.6,35,"Short, Action",Peter Chung,"Universal Cartoon Studios, Universal Home Video, Universal Pictures"
+tt0348121,Steamboy,07-17-2004,6.9,126,"Action, Adventure",Katsuhiro Otomo,"Bandai Visual Company, Steamboy Committee, Studio 4C, Sunrise VAP"
+tt0452039,Mind Game,07-28-2004,7.8,103,"Adventure, Comedy","Masaaki Yuasa, Koji Morimoto","Studio 4C, Asmik Ace Entertainment, Beyond C., Mind Game Project, Rentrack Japan Co. Ltd."
+tt0347149,Howl's Moving Castle,11-20-2004,8.2,119,"Adventure, Family",Hayao Miyazaki,"Buena Vista Home Entertainment, d-rights, Tokuma Shoten, Studio Ghibli, Tohokushinsha Film Corporation (TFC), Mitsubishi, Nippov Television Network (NTV), DENTSU Music And Entertainment"
+tt0381348,The Place Promised in Our Early Days,11-20-2004,7,91,"Drama, Romance","Makoto Shinkai,Yoshio Suzuki",CoMix Wave
+tt0485323,Fullmetal Alchemist the Movie: Conqueror of Shamballa,07-23-2005,7.4,105,"Action, Adventure",Seiji Mizushima,"Aniplex, Bones, Dentsu, Mainichi Broadcasting System (MBS), Nippon Shuppan Hanbai (Nippan) K.K., SKY Perfect Broadcasting, Shochiku, Square Enix Company, Tokyo Broadcasting System (TBS)"
+tt0385700,Final Fantasy VII: Advent Children,09-14-2005,7.2,101,"Action, Adventure","Tatsuya Nomura, Takeshi Nozue","Square Enix Company, Square USA"
+tt0493247,Origin: Spirits of the Past,01-07-2006,6.5,94,"Adventure, Drama",Keiichi Sugiyama,"Gonzo, Media Company"
+tt0808506,The Girl Who Leapt Through Time,07-15-2006,7.8,98,"Adventure, Comedy",Mamoru Hosoda,"Madhouse, Happinet, Kadokawa Pictures, Q-Tec, Memory Tech, Kadokawa Shoten Publishing Co."
+tt0851578,Paprika,11-25-2006,7.7,90,"Drama, Fantasy",Satoshi Kon,"Madhouse, Sony Pictures Entertainment"
+tt0465657,Highlander: The Search for Vengeance,07-05-2008,6.8,85,"Action, Fantasy","Yoshiaki Kawajiri, Takuji Endo, Hiroshi Hamazaki",Imagi Animation Studios
+tt0983213,5 Centimeters Per Second,03-03-2007,7.6,63,"Drama, Family",Makoto Shinkai,CoMix Wave
+tt0962762,Genius Party,07-07-2007,7.1,85,"Adventure, Fantasy","Nicolas de Crecy, Atsuko Fukushima, Yoji Fukuyama, Hideki Futamura, Shoji Kawamori, Shinji Kimura, Mahiro Maeda, Koji Morimoto, Mazuto Nakazawa, Tatsuyuki Tanaka, Shin'ichiro Watanabe, Hiro Yamagata, Masaaki Yuasa, Shin'ya Ohira",Studio 4C 
+tt1119194,The Perfect World of Kai,07-21-2007,7.1,101,"Drama, Family",Masayuki Kojima,"ADK, Nippon Television Network (NTV), Shochiku, Madhouse, Video Audio Project (VAP), Yomiuri Telecasting Corporation (YTV), Sony Music Entertainment, The Yomiuri Shimbun"
+tt1179773,Summer Days with Coo,07-28-2007,7.4,138,"Action, Comedy",Keiichi Hara,"Shochiku, Dentsu, Shin Ei Animation, Dentsu Tec, TV Asahi, Mitsui Bussan, Sky Perfect Well Think, Sony Music Entertainment"
+tt0970472,Vexille,08-18-2007,6.8,109,"Action, Sci-Fi",Fumihiko Sori,"CCRE, Avex Entertainment, Oxybot, Shochiku, Yahoo Japan, Shogakukan Production, Shogakukan, Tokyo Broadcasting System (TBS)"
+tt0923811,Evangelion: 1.0 You Are (Not) Alone,09-01-2007,7.7,98,"Action, Drama","Masayuki, Kazuya Tsurumaki, Hideaki Anno","Gainax, Khara Corporation"
+tt1121794,Sword of the Stranger,09-29-2007,7.8,103,"Action, Adventure",Masahiro Ando,Bones
+tt1043842,Appleseed Ex Machina,10-20-2007,7.1,105,"Action, Adventure",Shinji Aramaki,"Sega, TYO Productions, Micott & Basara K.K., Digital Frontier, Toei Company, Toei Video Company, TakaraTomy"
+tt1217043,Kite Liberator,03-21-2008,5.6,58,"Action, Crime",Yasuomi Umetsu,"Arms, Media Blasters"
+tt1155651,"Kara no Kyoukai: The Garden of Sinners, A Study in Murder: Part 1",12-29-2007,7.1,61,"Action, Crime",Takuya Nonaka,"Notes, Ufotable"
+tt1155652,Kara no Kyoukai: The Garden of Sinners - Remaining Sense of Pain,02-09-2008,7.3,58,"Action, Crime",Mitsuru Obunai,"Notes, Ufotable"
+tt1361566,The House of Small Cubes,08-10-2008,8.3,12,"Short, Drama",Kunio Kato,Robot Communications
+tt0876563,Ponyo,07-19-2008,7.7,101,"Adventure, Comedy",Hayao Miyazaki,"Studio Ghibli, Nippon Television Network (NTV), Dentsu, Hakuhodo DY Media Partners, Walt Disney Company, Mitsubishi, Toho Company, Taikei Office, Asahi Soft Drinks Company, Lawson, The Yomiuri Shimbun, Pixar Animation Studios"
+tt1278060,Kara no Kyoukai: The Garden of Sinners - Paradox Spiral,08-16-2008,7.9,114,"Action, Crime","Takayuki Hirao, Takahiro Miura","Aniplex, Kodansha, Notes, Ufotable"
+tt1474276,Summer Wars,08-01-2009,7.5,114,"Action, Adventure",Mamoru Hosoda,"Madhouse, Nippon Television Network (NTV), Kadokawa Shoten Publishing Co., D.N. Dream Partners, Warner Bros., Yomiuri Television, Video Audio Project (VAP)"
+tt1345776,Kara no Kyoukai: The Garden of Sinners - A Study in Murder - Part 2,08-08-2009,7.6,120,"Action, Crime",Shinsuke Takizawa,"Ufotable, Aniplex, Kodansha, Notes, Type-Moon"
+tt1483797,Redline,10-09-2010,7.5,102,"Action, Romance",Takeshi Koike,"Gastonia, Madhouse, Tohokushinsha Film Corporation (TFC)"
+tt1485763,One Piece: Strong World,12-12-2009,7.6,113,"Action, Adventure",Munehisa Sakai,"Fuji Television Network, Shueisha, Toei Animation, Toei Company"
+tt1572781,The Disappearance of Haruhi Suzumiya,05-21-2010,8.1,162,"Drama, Family","Tatsuya Ishihara, Yasuhiro Takemoto","Kadokawa Pictures, Kadokawa Shoten Publishing Co., Kyoto Animation, Lantis, The Klockworx"
+tt1715210,Time of Eve,03-06-2010,7.4,106,"Drama, Romance",Yasuhiro Yoshiura,"Code, Directions, Studio Rikka"
+tt1568921,The Secret World of Arrietty,07-17-2010,7.6,94,"Adventure, Family",Hiromasa Yonebayashi,"Studio Ghibli, Dentsu, Hakuhodo DY Media Partners, Mitsubishi Shoji, Nippon Television Network (NTV), Toho Company, Walt Disney Company"
+tt1677561,Colourful,08-21-2010,7.4,126,"Drama, Fantasy",Keiichi Hara,"Ascension, Fuji Television Network, Sunrise, Dentsu, Aniplex, Sony Music Entertainment, Toho Company"
+tt1839494,Children Who Chase Lost Voices,05-07-2011,7.2,116,"Adventure, Drama",Makoto Shinkai,"Media Factory, CoMix Wave"
+tt1798188,From Up on Poppy Hill,07-16-2011,7.4,91,"Drama, Family",Goro Miyazaki,"Studio Ghibli, Nippon Television Network (NTV), Dentsu, Hakuhodo DY Media Partners, Walt Disney Company, Mitsubishi, Toho Company, KDDI Corporation, The Yomiuri Shimbun, Lawson"
+tt1853614,A Letter to Momo,04-21-2012,7.3,120,"Adventure, Comedy",Hiroyuki Okiura,"Bandai Visual Company, Chubu-nippon Broadcasting Company, Chugoku Broadcasting, Horipro, JR Kikaku, Kadokawa Pictures, Kadokawa Shoten Publishing Co., Mainichi Broadcasting System, Mainichi Newspapers, Oriental Light and Magic, Production I.G., Tokyo Broadcasting System, Tokyu Recreation, Yahoo Japan"
+tt2061702,To the Forest of Firefly Lights,09-17-2011,7.9,45,"Drama, Fantasy",Takahiro Omori,"Aniplex, Brains Base, Hakusensha, Nihon Ad Systems, TV Tokyo"
+tt1909796,K-On! The Movie,12-03-2011,7.6,110,"Adventure, Comedy",Naoko Yamada,"Kyoto Animation, Shochiku, Tokyo Broadcasting System"
+tt2210479,Berserk: The Golden Age Arc I - The Egg of the King,02-04-2012,7.6,76,"Action, Adventure",Toshiyuki Kubooka,"Beyond C., Lucent Pictures Entertainment, Studio 4°C, Warner Bros."
+tt1857718,Gyo: Tokyo Fish Attack,02-15-2012,5.5,70,Horror,Takayuki Hirao,"Aniplex, Shogakukan Publishing, The Klockworx, Ufotable"
+tt2358911,Berserk: The Golden Age Arc II - The Battle for Doldrey,06-23-2012,7.8,80,"Action, Adventure",Toshiyuki Kubooka,"Beyond C., Lucent Pictures Entertainment, Studio 4°C, Warner Bros."
+tt2140203,Wolf Children,07-21-2012,8.1,117,"Drama, Family",Mamoru Hosoda,"Nippon Television Network (NTV), Studio Chizu, Madhouse, Kadokawa Shoten Publishing Co., Video Audio Project (VAP), D.N. Dream Partners, Yomiuri-TV Enterprise, Toho Company, Dentsu, Digital Frontier, Sapporo Television Broadcasting Company, Miyagi Television Broadcasting, Shizuoka Daiichi Television, Chukyo TV Broadcasting Company (CTV), Hiroshima Telecasting (HTV), Fukuoka Broadcasting System"
+tt2205948,Puella Magi Madoka Magica the Movie Part 1: Beginnings,10-06-2012,7.7,130,"Drama, Fantasy","Yukihiro Miyamoto, Akiyuki Shinbo","Aniplex, Hakuhodo DY Media Partners, Hobunsha, Madoka Partners, Magica Quartet, Mainichi Broadcasting System, Movic, Nitroplus, SHAFT"
+tt2194724,Puella Magi Madoka Magica the Movie Part 2: Eternal,10-13-2012,8,109,"Fantasy, Mystery","Yukihiro Miyamoto, Akiyuki Shinbo","Aniplex, Hakuhodo DY Media Partners, Hobunsha, Madoka Partners, Magica Quartet, Mainichi Broadcasting System, Movic, Nitroplus, SHAFT"
+tt2375379,One Piece: Z,12-15-2012,7.9,108,"Action, Adventure",Tatsuya Nagamine,"Fuji Television Network, Toei Animation, Toei Company, Shueisha, Bandai"
+tt2358913,Berserk: The Golden Age Arc III - The Advent,02-01-2013,7.9,110,"Action, Adventure",Toshiyuki Kubooka,"Beyond C., Lucent Pictures Entertainment, Studio 4°C, Warner Bros."
+tt2807626,Death Billiards,03-02-2013,7.5,25,"Short, Drama",Yuzuru Tachikawa,Madhouse
+tt2967286,Steins Gate the Movie: Load Region of Deja vu,04-20-2013,7.9,90,"Drama, Mystery","Kanji Wakabayashi, Hiroshi Hamazaki, Takuya Sato","AT-X, Cinema Sunshine, Frontier Works, Future Gadget Lab, Kadokawa Pictures, Mages., Media Factory, Movic"
+tt2591814,The Garden of Words,05-31-2013,7.5,46,"Drama, Romance",Makoto Shinkai,CoMix Wave
+tt2573198,Hal,06-08-2013,6.8,60,"Drama, Family",Ryotaro Makihara,"FUNimation Entertainment, Pony Canyon, Production I.G., Shochiku, Wit Studio"
+tt2013293,The Wind Rises,07-20-2013,7.8,126,"Biography, Drama",Hayao Miyazaki,"Studio Ghibli, Buena Vista Home Entertainment, Hakuhodo DY Media Partners, KDDI Corporation, Mitsubishi Motors Corporation, Nippon Television Network (NTV), Toho Company"
+tt3392330,Short Peace,07-20-2013,6.9,68,"Fantasy, Sci-Fi","Hiroaki Ando, Hajime Katoki, Shuhei Morita, Katsuhiro Otomo","Bandai Namco Entertainment, Bandai Visual Company, Dentsu, King Records, Lantis, Shochiku, Sunrise, Trigger"
+tt2457282,Puella Magi Madoka Magica the Movie Part III: Rebellion,10-26-2013,7.7,116,"Drama, Fantasy","Yukihiro Miyamoto, Akiyuki Shinbo","Aniplex, Hakuhodo DY Media Partners, Hobunsha, Madoka Partners, Magica Quartet, Movic, Nitroplus, SHAFT"
+tt2576852,The Tale of The Princess Kaguya,11-23-2013,8,137,"Adventure, Drama",Isao Takahata,"Studio Ghibli, Dentsu, Hakuhodo DY Media Partners, KDDI Corporation, Mitsubishi, Nippon Television Network (NTV), Toho"
+tt3178174,Giovanni's Island,02-22-2014,7.4,102,"Drama, History",Mizuho Nishikubo,"Fuji IG Laboratory for Movies (FILM), Japan Association for Music Enterprises (JAME), Production I.G."
+tt3398268,When Marnie Was There,07-19-2014,7.7,103,"Drama, Family","James Simone, Hiromasa Yonebayashi","Dentsu, Hakuhodo DY Media Partners, KDDI Corporation, Mitsubishi Motors Corporation, Nippon Television Network (NTV), Studio Ghibli, Toho Company"
+tt3717532,The Last: Naruto the Movie,12-06-2014,7.6,112,"Action, Adventure",Tsuneo Kobayashi,"Aniplex, Dentsu, Pierrot, Shueisha, TV Tokyo, Toho Company"
+tt5575408,Mushi-Shi Zoku Shou: Suzu no Shizuku,05-16-2015,8.7,47,"Animation, Fantasy",Hiroshi Nagahama,Aniplex
